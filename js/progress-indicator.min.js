@@ -1,0 +1,1 @@
+function myFunction(){var n=(document.body.scrollTop||document.documentElement.scrollTop)/(document.documentElement.scrollHeight-document.documentElement.clientHeight)*100;document.getElementById("myBar").style.width=n+"%"}window.onscroll=function(){myFunction()};

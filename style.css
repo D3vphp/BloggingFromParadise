@@ -1,0 +1,13 @@
+/*!
+  Theme Name: BFPUltimate
+  Theme URI: https://www.theweb.engineer
+  Description: A custom built WordPress theme for the Blogging From Paradise website and blog
+  Version: 1.0.0
+  Author: Phillip Dews (@D3vphp)
+  Author URI: https://www.phill.blog/
+  Tags: custom theme, HTML5, CSS3, BFP, Blogging From Paradise
+*/
+*/
+/* MASTER STUFF
+* ========================================================== ***/
+* {-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}a,button{color:#007bc1;text-decoration:none;outline:0;border:0}a:hover{color:#169ae4}a,button{cursor:pointer}html,body{padding:0;margin:0;height:100%;width:100%;position:relative}body{position:relative;background:#65686b;font-family:sans-serif;text-rendering:optimizelegibility;-webkit-font-smoothing:antialiased;padding:0;margin:0 auto;background-image:url(assets/background.jpg);background-size:100% auto;background-repeat:no-repeat;background-position:center top;background-attachment:fixed}:after,:before{box-sizing:border-box}.clearfix{clear:both;width:100%}h1,h2,h3,h4,p{padding:0;margin:0 0 4px;color:#696969}h1{font-size:1.8em}h2{font-size:1.6em}h3{font-size:1.3em}p{font-size:1.1em;line-height:1.6em}ul{list-style:none}iframe{float:left;width:100%}[placeholder]:focus::-webkit-input-placeholder{transition:opacity .5s .5s ease;opacity:0}[placeholder]:focus::-moz-placeholder{transition:opacity .5s .5s ease;opacity:0}[placeholder]:focus::-ms-input-placeholder{transition:opacity .5s .5s ease;opacity:0}.alignnone{margin:5px 20px 20px 0}.aligncenter,div.aligncenter{display:block;margin:5px auto}.alignright{float:right;margin:5px 0 20px 20px}.alignleft{float:left;margin:5px 20px 20px 0}a img.alignright{float:right;margin:5px 0 20px 20px}a img.alignnone{margin:5px 20px 20px 0}a img.alignleft{float:left;margin:5px 20px 20px 0}a img.aligncenter{display:block;margin-left:auto;margin-right:auto}.wp-caption{background:#fff;border:1px solid #f0f0f0;max-width:96%;padding:5px 3px 10px;text-align:center}.wp-caption.alignnone{margin:5px 20px 20px 0}.wp-caption.alignleft{margin:5px 20px 20px 0}.wp-caption.alignright{margin:5px 0 20px 20px}.wp-caption img{border:0 none;height:auto;margin:0;max-width:98.5%;padding:0;width:auto}.wp-caption p.wp-caption-text{font-size:11px;line-height:17px;margin:0;padding:0 4px 5px}.screen-reader-text{border:0;clip:rect(1px,1px,1px,1px);clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute!important;width:1px;word-wrap:normal!important}.screen-reader-text:focus{background-color:#eee;clip:auto!important;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}
